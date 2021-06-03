@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://www.canva.com/design/DAEgVRis2XU/yJNgvfGTABXwzntRY7IVsQ/view?utm_content=DAEgVRis2XU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" align="center" style="width: 100%" />
-</div>  
-
+<img src="image.png" align="center" style="width: 100%" />
+</div>
 
 ### <div align="center">I am Kofi Richardson a Front End web Developer since 2020</div>
 
@@ -57,8 +56,7 @@
 <a href="https://linkedin.com/in/kofi-richardson" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -76,8 +74,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kofi-richardson&&style=flat-square" align="center" />
-</div>  
-
+</div>
 
 <br/>
 
